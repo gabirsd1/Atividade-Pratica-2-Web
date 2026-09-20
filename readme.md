@@ -19,4 +19,4 @@ O projeto consiste em um Portfólio Pessoal desenvolvido em duas versões, garan
 ## Como acessar
 O projeto está hospedado no GitHub Pages. 
 A partir da raiz, é possível navegar para a versão desejada:
-[COLOQUE_SEU_LINK_DO_GITHUB_PAGES_AQUI]
+(https://gabirsd1.github.io/Atividade-Pratica-2-Web/)
